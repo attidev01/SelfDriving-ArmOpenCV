@@ -1,4 +1,4 @@
-# Smart Car Vision System- IAE UIZ
+# Smart Car Vision System
 
 ## Overview
 This repository contains a comprehensive real-time vision system for Raspberry Pi that integrates multiple detection capabilities for autonomous driving applications:
